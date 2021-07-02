@@ -1,0 +1,33 @@
+.portifolio-content{
+    width: 100%;
+    text-align: center;
+
+}
+.Image-align-center{
+    text-align: center;
+
+}
+h2{
+    text-decoration:underline;
+}
+
+body{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    background-color: beige;
+}
+button {
+    position:top;
+    float: right;
+    color:blueviolet;
+    background-color: rgb(9, 4, 29);
+    height: 50px;
+    width: 130px;
+    border: 0px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    
+  }
+  h3{
+      text-decoration: underline;
+  }
